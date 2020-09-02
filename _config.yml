@@ -1,5 +1,5 @@
 theme: jekyll-theme-modernist
-base_url: /beta/
+baseurl: /beta/
 title: PostgreSQL.TW
 description: 我在台灣，我用PostgreSQL
 show_downloads: false
