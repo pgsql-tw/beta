@@ -3,3 +3,6 @@ title: PostgreSQL.TW
 description: 我在台灣，我用PostgreSQL
 show_downloads: false
 timezone: Asia/Taipei
+
+collections:
+  - backgrounds
