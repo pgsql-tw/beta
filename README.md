@@ -2,7 +2,8 @@
 我在台灣，我用PostgreSQL
 
 {% for page in site.pages %}
-  [{{ page.title }}]({{ page.path }})
+  [{{ page.title }}]({{ page.url }})
+  {{ page.permalink }}
 {% endfor %}
 
 {% for bg in site.backgrounds %}
