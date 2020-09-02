@@ -1,4 +1,4 @@
 <script>
   var post=loadFile('pgsql-tw.html');
-  alert(post.getElementById('section'));
+  alert(post);
 </script>
