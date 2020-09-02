@@ -5,7 +5,7 @@
   [{{ page.title }}]({{ site.baseurl }}{{ page.url }})
 {% endfor %}
 
-{{ site.categories.pages | size }}
+{{ site.pages | size }}
 
 {% for bg in site.backgrounds %}
   <a href="{{ bg.link }}"><img src="{{ bg.src }}" height=200 /></a>
