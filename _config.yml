@@ -1,1 +1,4 @@
 theme: jekyll-theme-modernist
+title: PostgreSQL.TW
+description: 我在台灣，我用PostgreSQL
+show_downloads: false
