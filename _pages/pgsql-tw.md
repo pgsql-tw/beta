@@ -1,6 +1,7 @@
 ---
 layout: default
 title:  "PostgreSQL 台灣使用者社群"
+permalink: pgsql-tw.html
 ---
 
 # PostgreSQL 台灣使用者社群
