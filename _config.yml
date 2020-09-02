@@ -8,3 +8,5 @@ timezone: Asia/Taipei
 collections:
   - backgrounds
   - pages
+    output: true
+    permalink: /beta/:collection/:name
