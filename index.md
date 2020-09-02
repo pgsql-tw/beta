@@ -1,4 +1,4 @@
 <script>
-  var post=loadFile('pgsql-tw.html');
+  var post=loadFile('/beta/pgsql-tw.html');
   alert(post);
 </script>
