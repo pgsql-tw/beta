@@ -6,7 +6,7 @@ show_downloads: false
 timezone: Asia/Taipei
 
 collections:
-  - backgrounds:
-  - pages:
+  backgrounds:
+  pages:
     output: true
     permalink: /beta/:collection/:name
