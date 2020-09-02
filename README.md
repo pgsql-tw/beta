@@ -2,7 +2,7 @@
 我在台灣，我用PostgreSQL
 
 {% for page in site.pages %}
-  [{{ page.title }}]({{ site.baseurl }}{{ page.url }})
+  {{ page.content }}
 {% endfor %}
 
 {{ site.pages | size }}
