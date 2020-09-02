@@ -9,4 +9,4 @@ collections:
   backgrounds:
   pages:
     output: true
-    permalink: /beta/:collection/:name
+    permalink: /beta/:name
