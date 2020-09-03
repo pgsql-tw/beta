@@ -1,8 +1,7 @@
 ---
 permalink: /
 ---
-<script>
-  var post=loadFile('/beta/embed/pgsql-tw.html');
-  document.getElementById('section').innerHTML=post;
-  //alert(post);
-</script>
+
+{% for page in pages %}
+  <li>{{ page.title }} - {{ page.url }}</li>
+{% endfor %}
