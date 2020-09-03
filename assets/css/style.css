@@ -1,4 +1,23 @@
-@import "style.scss";
+html {
+	    height: 100%;
+    }
+
+body {
+	background-color: black;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+	font-size: 1.5vh;
+	height: 100%;
+	padding: 0;
+}
+
+#wrapper {
+  width: 80%;
+  margin: auto;
+  border: 2px blue;
+}
 
 #section {
   display: block;
