@@ -13,7 +13,7 @@ body {
 	padding: 0;
 }
 
-#wrapper {
+.wrapper {
   width: 80%;
   margin: auto;
   border: 2px blue;
