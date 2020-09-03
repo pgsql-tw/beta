@@ -41,4 +41,5 @@ footer {
   display: block;
   background: black;
   color: white;
+  min-height: 50%;
 }
