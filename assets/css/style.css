@@ -43,7 +43,8 @@ header.h1 {
 footer {
   width: 70%;
   margin: auto;
-  background-color: rgba(0,0,0,0.5);
+  background: linear_gradient(#DDFBFC, #C6EAFA);
+  border-radius: 8px;
   color: white;
 }
 
