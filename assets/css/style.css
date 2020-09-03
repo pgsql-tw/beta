@@ -1,6 +1,6 @@
 @import "style.scss";
 
-wrapper {
+#section {
   display: block;
   background: black;
   color: white;
