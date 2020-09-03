@@ -14,9 +14,17 @@ body {
 }
 
 .wrapper {
-  width: 80%;
+  width: 70%;
   margin: auto;
   border: 2px blue;
+  background-color: rgba(0,0,0,0.5);
+}
+
+footer {
+  width: 70%;
+  margin: auto;
+  background-color: rgba(0,0,0,0.5);
+  color: white;
 }
 
 #section {
