@@ -24,7 +24,7 @@ body {
 
 header {
   border-radius: 8px 8px 0 0;
-  background:#C6EAFA;
+  background: #C6EAFA;
   background: linear_gradient(#DDFBFC, #C6EAFA);
   position:relative;
   padding:15px 20px;
@@ -43,12 +43,13 @@ header.h1 {
 footer {
   width: 70%;
   margin: auto;
-  background: linear_gradient(#DDFBFC, #C6EAFA);
+  background: #C6EAFA;
   border-radius: 8px;
   color: white;
 }
 
 #section {
   display: block;
+  color: white;
   min-height: 50%;
 }
