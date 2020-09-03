@@ -19,6 +19,7 @@ body {
   border-radius: 8px blue solid;
   box-shadow: rgba(#000, 0.2) 0 0 0 1px, rgba(#000, 0.45) 0 3px 10px;
   background-color: rgba(0,0,0,0.5);
+  min-height:70%;
 }
 
 header {
