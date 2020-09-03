@@ -47,7 +47,7 @@ header.h1 {
 }
 
 footer {
-  width: 70%;
+  width: calc(70% - 20px);
   margin: auto;
   margin-top: 10px;
   border: 2px solid #069;
