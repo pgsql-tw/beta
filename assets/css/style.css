@@ -50,8 +50,10 @@ footer {
   width: 70%;
   margin: auto;
   margin-top: 10px;
+  border: 2px solid #069;
   background: #C6EAFA;
-  border-radius: 8px;
+  border-radius: 10px;
+  box-shadow: rgba(#000, 0.2) 0 0 0 1px, rgba(#000, 0.45) 0 3px 10px;
   padding: 10px;
   color: black;
   overflow:hidden;
