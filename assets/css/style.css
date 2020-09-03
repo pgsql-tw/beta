@@ -21,7 +21,7 @@ a, a:hover, a:visited {
 .wrapper {
   width: 70%;
   margin: auto;
-  border: 3px solid #069;
+  border: 2px solid #069;
   border-radius: 10px;
   box-shadow: rgba(#000, 0.2) 0 0 0 1px, rgba(#000, 0.45) 0 3px 10px;
   background-color: rgba(0,0,0,0.5);
@@ -49,6 +49,7 @@ header.h1 {
 footer {
   width: 70%;
   margin: auto;
+  margin-top: 10px;
   background: #C6EAFA;
   border-radius: 8px;
   padding: 10px;
