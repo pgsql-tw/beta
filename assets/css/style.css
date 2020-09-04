@@ -15,14 +15,14 @@ body {
 	margin: 0;
 }
 
-header.a, header.a:hover, header.a:visited, footer.a, footer.a:hover, footer.a:visited {
-  color: #069;
-  text-decoration:none;
-}
-
 a, a:hover, a:vistied {
   color: white;
   text-decoration: underline;
+}
+
+header.a, header.a:hover, header.a:visited, footer.a, footer.a:hover, footer.a:visited {
+  color: #069;
+  text-decoration:none;
 }
 
 .wrapper {
