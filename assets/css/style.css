@@ -20,6 +20,11 @@ a, a:hover, a:visited {
   text-decoration: underline;
 }
 
+header.a, header.a:hover, header.a:visited {
+  color: #069;
+  text-decoration: none;
+}
+
 .wrapper {
   width: 70%;
   margin: auto;
@@ -49,14 +54,14 @@ header.h1 {
 }
 
 header.p {
-    font-size: 13px;
+    font-size: 14px;
 }
 
-#nav {
+nav {
 	text-align: right;
 }
 
-#nav.a {
+nav.a {
 	display: inline;
 	width: 50px;
 	border: 1px solid #069;
