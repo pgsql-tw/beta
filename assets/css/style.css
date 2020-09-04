@@ -15,7 +15,7 @@ body {
 	margin: 0;
 }
 
-a, a:hover, a:vistied {
+a, a:hover, a:visited {
   color: white;
   text-decoration: underline;
 }
