@@ -20,7 +20,7 @@ a, a:hover, a:visited {
   text-decoration: underline;
 }
 
-header.a, header.a:hover, header.a:visited {
+header a, header a:hover, header a:visited {
   color: #069;
   text-decoration: none;
 }
