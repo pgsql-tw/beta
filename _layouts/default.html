@@ -24,7 +24,11 @@
         {% if site.description or site.github.project_tagline %}
           <p>{{ site.description | default: site.github.project_tagline }}</p>
         {% endif %}
-        <div id="nav"></div>
+        <div id="nav">
+          <li>Download 12</li>
+          <li>Documents</li>
+          <li>About</li>
+        </div>
       </header>
       <section id="section">
 
@@ -34,7 +38,7 @@
     </div>
     <footer>
       <p>每一次都有不同的可能性，不變的是 PostgreSQL 的開放與台灣之美</p>
-      <p>PostgreSQL台灣使用者社群@<span id="location">台灣</span></p>
+      <p><a href="mailto:contact@postgresql.tw" title="Contact us">PostgreSQL台灣使用者社群@<span id="location">台灣</span></a></p>
     </footer>
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
     <script>
