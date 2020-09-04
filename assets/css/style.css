@@ -61,12 +61,14 @@ header.p {
 	text-align: right;
 }
 
-#nav.li {
-	display: inline;
+#nav.a {
+	display: block;
 	border: 1px solid #069;
 	border-radius: 5px;
 	padding: 3px;
 	margin: 3px;
+	background: white;
+	color: black;
 }
 
 footer {
