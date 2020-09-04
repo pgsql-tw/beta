@@ -20,11 +20,6 @@ a, a:hover, a:vistied {
   text-decoration: underline;
 }
 
-header.a, header.a:hover, header.a:visited, footer.a, footer.a:hover, footer.a:visited {
-  color: #069;
-  text-decoration:none;
-}
-
 .wrapper {
   width: 70%;
   margin: auto;
